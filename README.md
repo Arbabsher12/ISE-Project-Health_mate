@@ -1,4 +1,4 @@
-## iNTRO TO SE PROJECT 
+## INTRO TO SE PROJECT 
 
 ## NAME 
 Health Mate
