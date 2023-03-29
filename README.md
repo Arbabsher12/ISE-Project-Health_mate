@@ -1,2 +1,14 @@
-# ISE-Project-Health_mate
-Intro to SE project
+#Name of the project
+Health Mate
+
+#FRAMEWORK 
+ASP.net
+
+#TEAM Members
+1.ARBAB RAHIM 22I2726
+2.HUSNAIN AKRAM 22I2464
+3.MUAAZ   22I2503
+4.HUMAIR NASEER 22I2632
+
+#ESTIMATE-TIME 
+3 MONTHS
